@@ -1,0 +1,45 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/gorilla/websocket",
+			"repository": "https://github.com/gorilla/websocket",
+			"vcs": "git",
+			"revision": "a69d25be2fe2923a97c2af6849b2f52426f68fc0",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/ianberinger/stockfighter",
+			"repository": "https://github.com/ianberinger/stockfighter",
+			"vcs": "git",
+			"revision": "adc58a798ba3fdad92c843f9b3941fd0376e8bdb",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/kr/pretty",
+			"repository": "https://github.com/kr/pretty",
+			"vcs": "git",
+			"revision": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/kr/pty",
+			"repository": "https://github.com/kr/pty",
+			"vcs": "git",
+			"revision": "ce7fa45920dc37a92de8377972e52bc55ffa8d57",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/kr/text",
+			"repository": "https://github.com/kr/text",
+			"vcs": "git",
+			"revision": "7cafcd837844e784b526369c9bce262804aebc60",
+			"branch": "main",
+			"notests": true
+		}
+	]
+}
